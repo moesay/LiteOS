@@ -6,7 +6,11 @@ Writen to fit on a floppy disk.
 
 
 To build and run it download the following :
-    - Bochs
-    - VFD
-    - Part Copy
+- NASM
+- Bochs
+- VFD
+- Part Copy
+
 Part Copy is not needed if you know how to work with `Debug` command
+
+**This is _not complete or even usfull kernel_, its just demontrate the concepts behind OS Developing**
