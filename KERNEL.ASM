@@ -1,7 +1,7 @@
                                                 ;************************************************************************************;
                                                 ;                                                                                  *\;
-                                                ;      Copyright (c) 2012-2016   Litesoft Org.           Mohamed El Sayed          *\;
-                                                ;      www.litesoft.ga2h.com                    lowlevelcode.blogspot.com          *\;
+                                                ;      Copyright (c) 2012-2016                            Mohamed El Sayed          *\;
+                                                ;      www.platxend.tk                    lowlevelcode.blogspot.com          *\;
                                                 ;             This is a intended to support the freeware community                 *\;
                                                 ;                                                                                  *\;
                                                 ;                -- All rights reserved -- Use at your own risk --                 *\;
