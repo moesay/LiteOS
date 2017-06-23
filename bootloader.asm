@@ -1,7 +1,7 @@
                                                 ;************************************************************************************;
                                                 ;                                                                                  *\;
                                                 ;      Copyright (c) 2012-2016   Litesoft Org.           Mohamed El Sayed          *\;
-                                                ;      www.litesoft.ga2h.com                    lowlevelcode.blogspot.com          *\;
+                                                ;      www.platxend.tk                    lowlevelcode.blogspot.com          *\;
                                                 ;             This is a intended to support the freeware community                 *\;
                                                 ;    You may use this code as a bootloader for your OPEN SOURCE Operating system   *\;
                                                 ;                -- All rights reserved -- Use at your own risk --                 *\;
