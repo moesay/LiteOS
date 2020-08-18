@@ -1,11 +1,6 @@
                                                 ;************************************************************************************;
-                                                ;                                                                                  *\;
-                                                ;      Copyright (c) 2012-2016                            Mohamed El Sayed          *\;
-                                                ;      www.platxend.tk                    lowlevelcode.blogspot.com          *\;
-                                                ;             This is a intended to support the freeware community                 *\;
-                                                ;                                                                                  *\;
+                                                ;      Copyright (c) 2012-2016                            Mohamed El Sayed         *\;                                                ;                                                                                  *\;
                                                 ;                -- All rights reserved -- Use at your own risk --                 *\;
-                                                ;                                                                                  *\;
                                                 ;***********************************************************************************\;
                                                 ;       File             : KERNEL.asm                                              *\;
                                                 ;       Built with       : NASM ver. 2.12.01                                       *\;
