@@ -1,6 +1,6 @@
 ## LiteOS
 
-## A 16-bin Assembly OS Kernel & Bootloader
+## A 16-bit Assembly OS Kernel & Bootloader
 
 Writen to fit on a floppy disk.
 
